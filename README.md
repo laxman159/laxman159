@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laxman159&label=Profile%20views&color=0eb1b4&style=plastic" alt="laxman159" /> </p>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **GraphQL**
 
-- 💬 Ask me about **Java, C, Html, CSS, SCSS...**
+- 💬 Ask me about **Java, C, ...props**
 
 - 📫 How to reach me **laxmansharma1593570@gmail.com**
 
