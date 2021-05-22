@@ -17,8 +17,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/laxman sharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="laxman sharma" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/laxman159" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="laxman159" height="30" width="40" /></a>
-<a href="https://fb.com/laxman sharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="laxman sharma" height="30" width="40" /></a>
-<a href="https://instagram.com/_lax.man_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_lax.man_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
