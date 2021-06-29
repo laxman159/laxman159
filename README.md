@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **laxmansharma1593570@gmail.com**
 
-- 📄 Know about my experiences [https://laxmanportfolio.netlify.app/](https://laxmanportfolio.netlify.app/)
+- 📄 Know about my experiences [https://laxmanportfolio.netlify.app/](https://portfoliolaxman159.netlify.app/)
 
 - ⚡ Fun fact **I love Basketball**
 
