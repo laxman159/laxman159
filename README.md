@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laxman159&label=Profile%20views&color=0eb1b4&style=plastic" alt="laxman159" /> </p>
 
-- 🌱 I’m currently learning **GraphQL**
+- 🌱 I’m currently learning **Camunda Workflow Engine**
 
 - 💬 Ask me about **Java, C, ...props**
 
 - 📫 How to reach me **laxmansharma1593570@gmail.com**
 
-- 📄 Know about my experiences [https://laxman.netlify.app/](https://laxman.netlify.app/)
+- 📄 Know about my experiences [https://laxman.netlify.app/](portfolio) (Not maintained anymore)
 
-- ⚡ Fun fact **I love Basketball**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
