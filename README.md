@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **laxmansharma1593570@gmail.com**
 
-- 📄 Know about my experiences [portfolio]([portfolio](https://laxman.netlify.app/)) (Not maintained anymore)
+- 📄 Know about my experiences [https://laxman.netlify.app/](https://laxman.netlify.app/) (Not maintained anymore)
 
 
 
